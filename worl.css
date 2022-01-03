@@ -33,3 +33,25 @@ h1{
     font-size: 13px;
     font-family: Arial, Helvetica, sans-serif;
 }
+#new{
+    width:100%
+}
+.newone{
+   width: 50%;
+}
+.newtwo{
+    width: 50%;
+}
+#new{
+    display: flex;
+}
+.abar{
+    height: 380px;
+    width: 350px;
+    margin-left: 300px;
+    margin-top: 115px;
+}
+.rahin{
+    text-align: right;
+    margin-right: 150px;
+}
